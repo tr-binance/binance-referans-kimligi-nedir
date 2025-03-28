@@ -1,4 +1,4 @@
-# Binance Referans Kimliği Nedir?
+# Binance Referans Kimliği: BR0T6PDN - %40 komisyon indirimi
 
 Binance referans kimliği, kullanıcıların Binance borsasına üye olurken ek avantajlar kazanmalarını sağlayan özel bir kod sistemidir. BR0T6PDN kodu, mevcut Binance kullanıcılarının yeni üyeleri davet etmek amacıyla kullanılır ve hem davet eden hem de davet edilen kişi için avantajlar sunar.
 
