@@ -1,6 +1,6 @@
 # Binance Referans Kimliği Nedir?
 
-Binance referans kimliği, kullanıcıların Binance borsasına üye olurken ek avantajlar kazanmalarını sağlayan özel bir kod sistemidir. Bu kod, mevcut Binance kullanıcılarının yeni üyeleri davet etmek amacıyla kullanılır ve hem davet eden hem de davet edilen kişi için avantajlar sunar.
+Binance referans kimliği, kullanıcıların Binance borsasına üye olurken ek avantajlar kazanmalarını sağlayan özel bir kod sistemidir. BR0T6PDN kodu, mevcut Binance kullanıcılarının yeni üyeleri davet etmek amacıyla kullanılır ve hem davet eden hem de davet edilen kişi için avantajlar sunar.
 
 ## Binance'e Kayıt Olma ve Referans Kimliği Kullanma
 
